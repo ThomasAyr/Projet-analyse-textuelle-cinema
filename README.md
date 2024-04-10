@@ -21,4 +21,4 @@ Les objectifs sont actuellement en cours de définition, voici l'état du brains
 - **Data Visualization (Data Viz)** : Illustrer les résultats de nos analyses par des visualisations graphiques pour une meilleure compréhension et interprétation.
 
 ## Modalités d'évaluation
-Le projet sera évalué sur la base d'un rapport détaillé présentant les analyses réalisées, ainsi que d'une vidéo de démonstration illustrant le fonctionnement des méthodes employées et les insights obtenus. L'accent sera mis sur la pertinence des analyses, la clarté de la présentation, et l'originalité des approches utilisées. Rapport à rendre le mercredi 03 avril 2024.
+Le projet sera évalué sur la base d'un rapport détaillé présentant les analyses réalisées, ainsi qu'une soutenance le jeudi 11 avril 2024 illustrant le fonctionnement des méthodes employées et les insights obtenus. L'accent sera mis sur la pertinence des analyses, la clarté de la présentation, et l'originalité des approches utilisées.
